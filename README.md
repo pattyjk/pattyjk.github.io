@@ -25,8 +25,7 @@ This website allows you to:
 <p>
   <ol>
     <li> Submit your isolate data to add to the database</li>
-     <li>  Analyze your 16S rRNA gene sequences</li>
-         <li> Learn about and install our R package</li>
+        <li> Learn about and install our R package</li>
         <li>  Learn to use our R package through guided tutorials</li>
         <li>  Access the database's GitHub repo</li>
         <li>  Get help from frog experts for all your frog needs</li>
