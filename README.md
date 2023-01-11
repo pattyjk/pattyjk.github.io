@@ -8,14 +8,17 @@ The amphibian-associated bacterial database
 </div>
 
 ---
-
-          h4(" Database last updated 1/5/22 by a frog...ribbit"),
+ <p align="center">
+        Database last updated 1/5/22 by a frog...ribbit")
+  </p>
           a(
             href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/14-1837.1", 
             "Click here to read our publication"
           ),
-          h5("This project is funded by the Smithsonian or whoever pays Molly and I."),
-          h5("This website allows you to:"),
+This project is funded by the Smithsonian or whoever pays Molly and I.
+<p>
+*This website allows you to:
+ </p>
           tags$li("Submit your isolate data to add to the database"),
           tags$li("Analyze your 16S rRNA gene sequences"),
           tags$li("Learn about and install our R package"),
