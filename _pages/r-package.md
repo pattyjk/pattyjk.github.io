@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /r-package/
-title: R package name AmphiBac database
+title: The AmphiBac database
 ---
 
 The AmphiBac R package is available on <a href="Link to Package"> CRAN</a>. To start using the package (we know, you're super excited to do so) simply open R or R-studio and run:
