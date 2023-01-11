@@ -14,5 +14,5 @@ The AmphiBac database relies on open-access tools (R, GitHub, and vsearch) to pr
 <li>Create a ASV/OTU table of inhibitory taxa</li>
 <li>Antifungal richness calculations</li>
 <li>Implement filtering to subset database based on metadata (e.g. country, frog species)</li>
-<li>Pull the latest AmphiBac database (one is provided on CRAN, but we do update it inbetween CRAN releases...we're good like that)</li>  
+<li>Pull the latest AmphiBac database (one is provided on CRAN, but we do update it on GitHub in between CRAN releases...we're good like that)</li>  
 </ol>
