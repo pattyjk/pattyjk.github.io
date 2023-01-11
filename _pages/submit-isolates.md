@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /submit/
+permalink: /submit-isolates/
 title: Submit your isolates
 ---
 
