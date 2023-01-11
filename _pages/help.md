@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: Help my AmphiBac Database, you're my only hope
 permalink: /help/
 ---
 
