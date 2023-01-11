@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
+  <img src="/images/happy_frog.jpg" alt="Reverie" width="200"/>
   <br>  
   <p align="center">
     <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
