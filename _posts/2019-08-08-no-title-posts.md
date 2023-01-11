@@ -1,6 +1,9 @@
 ---
 layout: post
-title: ""
+title: "Pat's dogs"
 categories: Miscellaneous
 ---
-Sometimes, your post just stands for itself and doesn't need a title. And that's fine, too!
+Pat has wicked cute dogs.
+
+[<img src="/images/snickers.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="/images/chippy.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>]({{ site.baseurl }}/)
