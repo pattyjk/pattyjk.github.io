@@ -16,15 +16,16 @@ The amphibian-associated bacterial database
             "Click here to read our publication"
           ),
 This project is funded by the Smithsonian or whoever pays Molly and I.
+
 <p>
-*This website allows you to:
- </p>
-          tags$li("Submit your isolate data to add to the database"),
-          tags$li("Analyze your 16S rRNA gene sequences"),
-          tags$li("Learn about and install our R package"),
-          tags$li("Learn to use our R package through guided tutorials"),
-          tags$li("Access the database's GitHub repo"),
-          tags$li("Get help from frog experts for all your frog needs"),
-          h5("Please direct any questions, comments, or concerns to someone"),
-          a(href="https://photos.app.goo.gl/6q4bHUTgin2CMq5eA", "Click here for a picture of Pat's doggies"),
+This website allows you to:
+</p>
+          Submit your isolate data to add to the database
+       Analyze your 16S rRNA gene sequences
+          Learn about and install our R package
+          Learn to use our R package through guided tutorials
+          Access the database's GitHub repo
+          Get help from frog experts for all your frog needs
+          Please direct any questions, comments, or concerns to someone
+         
           
