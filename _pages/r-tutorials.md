@@ -7,7 +7,7 @@ The AmphiBac database relies on open-access tools (R, GitHub, and vsearch) to pr
 
 ---
 <ol>
-<li>From raw reads to database ready analysis (for beginners of high-throughput sequencing analysis of 16S rRNA gene data) </i>
+<li>From raw reads to database ready analysis with vsearch (for beginners of high-throughput sequencing analysis of 16S rRNA gene data) </i>
 <li>Importing your data into R from common bioinformatics pacakges (e.g. QIIME2, mothur, etc)</i>
 <li>Comparing your sequences to the AmphiBac Database</i>
 <li>Calculate the percentage of inhibitory/enhancing/noninhibitory taxa </i>
