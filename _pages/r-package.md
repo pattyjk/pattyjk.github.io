@@ -17,7 +17,7 @@ The AmphiBac pacakge relies on a few other R-packages
 <ol>
   BioStrings
   vegan
-</ol)
+</ol>
   
   The AmphiBac pacakge may also require the use of a few other packages depending on how you analyzed your sequencing data
   
