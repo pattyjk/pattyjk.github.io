@@ -15,13 +15,13 @@ It will do its thing adn spit out some code and once it gives you the green ligh
 The AmphiBac pacakge relies on a few other R-packages
 
 <ol>
-  <li>1. BioStrings</li>
-  2. vegan
+  <li>BioStrings</li>
+  <li>vegan</li>
 </ol>
   
   The AmphiBac pacakge may also require the use of a few other packages depending on how you analyzed your sequencing data
   
   <ol>
-  1. PhyloSeq
-  2. DADA2
+  <li>PhyloSeq</li>
+  <li>DADA2</li>
  </ol>
