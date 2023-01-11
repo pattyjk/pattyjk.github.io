@@ -10,7 +10,8 @@ The amphibian-associated bacterial database
 
 ---
  <p align="center">
-        Database last updated 1/5/22 by a frog...ribbit
+        Database last updated 1/5/22 by a frog...ribbit</p>
+         <p align="center">
     <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/14-1837.1">Click here to read our publication!</a>
  </p>
 <p>
