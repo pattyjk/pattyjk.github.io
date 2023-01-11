@@ -3,7 +3,8 @@
   <img src="/images/happy_frog.jpg" alt="Reverie" width="200"/>
   <br>  
   <p align="center">
-The amphibian-associated bacterial database 
+    The amphibian-associated bacterial database </p>
+   <p align="center">
     This project is funded by the Smithsonian or whoever pays Molly and I.
   </p>
 </div>
