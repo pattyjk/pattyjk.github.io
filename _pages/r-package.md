@@ -15,7 +15,7 @@ It will do its thing adn spit out some code and once it gives you the green ligh
 The AmphiBac pacakge relies on a few other R-packages
 
 <ol>
-  1. BioStrings
+  <li>1. BioStrings</li>
   2. vegan
 </ol>
   
