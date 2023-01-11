@@ -5,5 +5,5 @@ categories: Miscellaneous
 ---
 Pat has wicked cute dogs.
 
-[<img src="/images/snickers.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>]
-[<img src="/images/chippy.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>]
+<img src="/images/snickers.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>
+<img src="/images/chippy.jpg" alt="Snickers 'the mooch' Kearns " style="width: 400px;"/>
