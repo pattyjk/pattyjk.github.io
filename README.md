@@ -4,6 +4,7 @@
   <br>  
   <p align="center">
 The amphibian-associated bacterial database 
+    This project is funded by the Smithsonian or whoever pays Molly and I.
   </p>
 </div>
 
@@ -16,17 +17,22 @@ The amphibian-associated bacterial database
   
   <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/14-1837.1">Click here to read our publication!</a>
    </p>
-This project is funded by the Smithsonian or whoever pays Molly and I.
+
 
 <p>
 This website allows you to:
 </p>
-          Submit your isolate data to add to the database
+<p>
+  <ol>
+    <li> Submit your isolate data to add to the database</li>
        Analyze your 16S rRNA gene sequences
           Learn about and install our R package
           Learn to use our R package through guided tutorials
           Access the database's GitHub repo
           Get help from frog experts for all your frog needs
+    </ol>
+    </p>
+    
           Please direct any questions, comments, or concerns to someone
          
           
