@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts Archive
+permalink: /r-package/
+title: R package name AmphiBac database
 ---
 
 ABout the R package
