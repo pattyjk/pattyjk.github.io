@@ -1,17 +1,17 @@
 title: Patrick Kearns, PhD
 tagline: Microbial Ecology & Host–Microbe Interactions
 description: >-
-  Research site of Patrick J. Kearns, Research Assistant Professor of Biology
-  at the University of Massachusetts Boston, studying microbial ecology,
+  Research site of Patrick J. Kearns,Assistant Teaching Professor of Biotechnology
+  at the Northeastern University, studying microbial ecology,
   fungal disease ecology, and host-microbe interactions.
 email: kearnspj23@gmail.com
 phone: "617.980.2002"
-affiliation: "Department of Biology, University of Massachusetts Boston"
+affiliation: "Department of Chemistry and Chemical Biology"
 scholar_url: "https://scholar.google.com/citations?user=SGXKG2UAAAAJ&hl=en"
 
 # --- Update these two lines to match your GitHub repo ---
-url: "https://YOUR-GITHUB-USERNAME.github.io"
-baseurl: "/YOUR-REPO-NAME"
+url: "https://pattyjk.github.io"
+baseurl: "/pattyjk"
 # ----------------------------------------------------------
 
 markdown: kramdown
