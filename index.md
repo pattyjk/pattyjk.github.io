@@ -8,7 +8,7 @@ title: About
   <div class="wrap hero__inner">
     <div class="hero__grid">
       <div>
-        <p class="hero__eyebrow">Research Assistant Professor &middot; Department of Biology, UMass Boston</p>
+        <p class="hero__eyebrow"> Assistant Teaching Professor &middot; Department of Chemistry and Chemical Biology, Northeastern University</p>
         <h1>Studying how microbes shape <em>host health</em> and <em>ecosystem function.</em></h1>
         <p class="lede">
           I'm a microbial ecologist working at the intersection of host-microbe interactions,
