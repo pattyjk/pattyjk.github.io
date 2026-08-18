@@ -1,56 +1,27 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
-    {% include meta.html %}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
 
-    <link rel="stylesheet" type="text/css" href="{{ pattyjk.github.io }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 
-    <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
-  </head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="data:,">
+</head>
+<body>
 
-  <body>
-    <div id="bar"></div>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+  {% include nav.html %}
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
+  <main>
+    {{ content }}
+  </main>
 
-            <nav>
-                  <a href="/submit-isolates/">Submit your isolates</a>
-              <a href="/r-package/">R-package</a>
-              <a href="/r-tutorials/">R Tutorials</a>
-             <a href="http://github.com/pattyjk/pattyjk.github.io">GitHub Repo</a>
-              <a href="/help/">Help</a>
-            </nav>
-          </header>
-        </div>
-      </div>
+  {% include footer.html %}
 
-      <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
-        </div>
-      </div>
-
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-          </footer>
-        </div>
-      </div>
-    </div>
-  </body>
+</body>
 </html>
